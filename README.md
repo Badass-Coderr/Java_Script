@@ -6,8 +6,8 @@ Welcome to my repository for the solutions to the 30 Days of JavaScript Challeng
 
 ## Topics Covered
 
-1. **Day 1: Introduction to JavaScript**
-   - [Day 1: Introduction to JavaScript](link-to-day-1-solutions)
+1. **Day 1: Variables and Data Types**
+   - [Day 1: Variables and Data Types](https://github.com/Badass-Coderr/Java_Script/tree/main/01_Variables)
 2. **Day 2: Variables and Data Types**
    - [Day 2: Variables and Data Types](link-to-day-2-solutions)
 3. **Day 3: Operators and Expressions**
