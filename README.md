@@ -8,24 +8,24 @@ Welcome to my repository for the solutions to the 30 Days of JavaScript Challeng
 
 1. **Day 1: Variables and Data Types**
    - [Day 1: Variables and Data Types](https://github.com/Badass-Coderr/Java_Script/tree/main/01_Variables)
-2. **Day 3: Operators and Expressions**
-   - [Day 3: Operators and Expressions](https://github.com/Badass-Coderr/Java_Script/tree/main/02_Operators)
-3. **Day 4: Control Structures**
-   - [Day 4: Control Structures](link-to-day-4-solutions)
-4. **Day 5: Functions**
-   - [Day 5: Functions](link-to-day-5-solutions)
-5. **Day 6: Objects and Arrays**
-   - [Day 6: Objects and Arrays](link-to-day-6-solutions)
-6. **Day 7: Higher Order Functions**
-   - [Day 7: Higher Order Functions](link-to-day-7-solutions)
-7. **Day 8: Asynchronous JavaScript**
-   - [Day 8: Asynchronous JavaScript](link-to-day-8-solutions)
-8. **Day 9: DOM Manipulation**
-   - [Day 9: DOM Manipulation](link-to-day-9-solutions)
-9.  **Day 10: Event Handling**
-    - [Day 10: Event Handling](link-to-day-10-solutions)
-10. **Day 11: Form Validation**
-    - [Day 11: Form Validation](link-to-day-11-solutions)
+2. **Day 2: Operators and Expressions**
+   - [Day 2: Operators and Expressions](https://github.com/Badass-Coderr/Java_Script/tree/main/02_Operators)
+3. **Day 3: Control Structures**
+   - [Day 3: Control Structures](link-to-day-4-solutions)
+4. **Day 4: Loops**
+   - [Day 4: Loops](link-to-day-5-solutions)
+5. **Day 5: Functions**
+   - [Day 5: Functions](link-to-day-6-solutions)
+6. **Day 6: Arrays**
+   - [Day 6: Arrays](link-to-day-7-solutions)
+7. **Day 7: Objects**
+   - [Day 7: Objects](link-to-day-8-solutions)
+8. **Day 8: ES6+ Features**
+   - [Day 8: ES6+ Features](link-to-day-9-solutions)
+9.  **Day 9: DOM Manipulation**
+    - [Day 10: DOM Manipulation](link-to-day-10-solutions)
+10. **Day 11: Event Handling**
+    - [Day 11: Event Handling](link-to-day-11-solutions)
 11. **Day 12: Web Storage**
     - [Day 12: Web Storage](link-to-day-12-solutions)
 12. **Day 13: Error Handling**
