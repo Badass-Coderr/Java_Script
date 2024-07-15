@@ -1,3 +1,7 @@
+// Day 2
+// of 30 Days of Java script by Hitesh Choudhary
+
+
 // Activity 1: Arithmetic Operations
 // Task 1-5: Write a program to add, subtract, multiply, divide, remainder of two numbers
 // and log the result to the console.
