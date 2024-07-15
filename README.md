@@ -6,7 +6,7 @@ Welcome to my repository for the solutions to the 30 Days of JavaScript Challeng
 
 1. **Day 1: Variables and Data Types** [🔗](https://github.com/Badass-Coderr/Java_Script/tree/main/01_Variables)
 2. **Day 2: Operators and Expressions** [🔗](https://github.com/Badass-Coderr/Java_Script/tree/main/02_Operators)
-3. **Day 3: Control Structures** [🔗](link-to-day-4-solutions)
+3. **Day 3: Control Structures** [🔗](https://github.com/Badass-Coderr/Java_Script/tree/main/03_CtrlStructures)
 4. **Day 4: Loops** [🔗](link-to-day-5-solutions)
 5. **Day 5: Functions** [🔗](link-to-day-6-solutions)
 6. **Day 6: Arrays** [🔗](link-to-day-7-solutions)
